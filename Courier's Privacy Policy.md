@@ -4,7 +4,7 @@
 
 Courier (hereinafter referred to as the "Service") is identified as a Discord gaming interactive bot.
 This document entails the privacy policy and agreement that you accept when adding this Service to a server, or as a member of such a server. 
-This document does not supersede the [Developer Terms of Service](https://discord.com/developers/docs/legal).
+This document does not supersede the [Discord Privacy Policy](https://discord.com/privacy).
 
 <h2>Terminology</h2>
 
