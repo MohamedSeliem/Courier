@@ -4,7 +4,7 @@
 
 Courier (hereinafter referred to as the "Service") is identified as a Discord gaming interactive bot.
 This document entails the privacy policy and agreement that you accept when adding this Service to a server, or as a member of such a server. 
-This document does not supersede the [Discord Privacy Policy](https://discord.com/privacy).
+This document does not supersede the [Discord Privacy Policy](https://discord.com/privacy) neither supersede the Discord <a href="https://discord.com/terms">Terms of Service</a>.
 
 <h2>Terminology</h2>
 
@@ -59,9 +59,9 @@ By adding any this Service to your server or using it in any way, you are consen
   If you, the server member, do not agree to this document, you may leave the server that contains the bot(s). 
   If you, the service user, do not agree to this document, you may revoke authorization of the application(s) in your 'Authorized Apps' menu.
 
-<h2>Changes to This Privacy Policy</h2>
+<h2>Changes to This Document</h2>
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
-We will let you know via email and/or a prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Privacy Policy.
+We will let you know via prominent notice on our Service, prior to the change becoming effective and update the "effective date" at the top of this Document.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
 <h2>Contact us</h2>
