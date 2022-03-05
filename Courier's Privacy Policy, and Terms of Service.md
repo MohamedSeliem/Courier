@@ -27,25 +27,21 @@ When providing data in this way, you forego any rights to the content of the dat
 These items will be automatically collected if a bot is configured to perform certain actions by a server manager. 
 These features are always opt-in, and thus this data will not be collected unless the corresponding feature is enabled.
 
-* Logs of chat messages (serverlogs)
 * List of a member\'s roles (role persistence)
 * Avatar data
 
 <h2>Data Collected Automatically</h2>
 
-This data may be collected automatically by some bots. This data is used to provide statistics or history data. For any bots that collect this data, it is necessary for features of said bot.
+This data may be collected automatically by courier. This data is used to provide statistics or history data. For courier to collect this data, it is necessary for features of it.
 
 * Previous usernames
-* Date and Time of last activity
-* Emote usage counts
 * Any data needed for standard operation of Discord bots, such as server permissions (this data is stored in cache only while the bot is running)
 <h2>Data Collected via Authorization</h2>
 This data may be collected when authorizing an application, such as when logging in to a site via Discord Oauth2. This data is also outlined on the authorization page.
 
 * Username, Discord ID, Avatar Data
 * List of guilds (servers) your account is connected to
-* E-mail address
-* Discord account connections (such as Steam, Reddit, etc)
+
 <h2>Data Storage</h2>
 All stored data is kept on protected servers. While storage methods vary, most data is kept within password-protected databases such as H2 or Derby. Please keep in mind that even with these protections, no data can ever be 100% secure. All efforts are taken to keep your data secure and private, but its absolute security cannot be guaranteed.
 
