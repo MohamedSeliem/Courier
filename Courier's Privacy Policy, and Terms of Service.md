@@ -16,12 +16,8 @@ This document does not supersede the [Discord Privacy Policy](https://discord.co
 The following items may be collected and stored when intentionally provided by a user (usually by means of a command). This data will not be collected automatically. 
 When providing data in this way, you forego any rights to the content of the data provided.
 
-* Links to external accounts, e-mail addresses, timezones, identification information (profiles)
-* Server configurations
-* Event-organization data (contests, giveaways)
-* Archives of messages
-* Data and content for automated tasks (reminders, afk)
-* Saved references, urls, or text (tags, playlists)
+* Links to external accounts, PUBG MOBILE in-game ID,  PUBG MOBILE in-game name. (profiles)
+* Data and content for automated tasks (reminders, raids)
 
 <h2>Data Collected When Enabled</h2>
 These items will be automatically collected if a bot is configured to perform certain actions by a server manager. 
